@@ -26,11 +26,17 @@ This will help you become regular and improve your coding skills.
 
 ### Benefits
 -Coding will become a daily habit for you.
+
 -Every day that you consistently code, you’ll build momentum. That momentum will make it easier for you to learn more advanced topics.
+
 -Your GitHub profile will look extremely active. And yes, hiring managers and recruiters do look at these.
+
 -You’ll get more comfortable contributing in open soruce. It will become a natural, ordinary thing to do.
+
 -You’ll have a pretty good reason to stop procrastinating and start coding every day.
+
 -Increase your efficiency by checking your daily progress and analysing it.
+
 -Compare your progress with others and surpass your limits in learning each day.
 
 ### How to participate

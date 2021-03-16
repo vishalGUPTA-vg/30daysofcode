@@ -1,5 +1,5 @@
 ##### 30 Days of code
-```
+
 <img src="./.github/logo.png" height="70" align="left"/>
 
 30 Days of Code is a Event organized by Codechef SRM NCR Chapter where you have to solve questions daily for 30 days.
